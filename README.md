@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @yokesh174
+- 👀 I’m interested in Data Scientist
+- 🌱 I’m currently learning C programming
+- 📫 you can find me on
+- Linkedin(@Yokesh B)
+- Github(@yokesh174)
