@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yokesh174
+- 👋 Hi, I’m @yokesh
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning C programming
 - 📫 you can find me on
